@@ -17,6 +17,7 @@ public class Ned {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("My first progect to GIT:):):)");
+		 System.out.println("Create Nedilska Khristina student group SIs-42");
     }
     
 }
